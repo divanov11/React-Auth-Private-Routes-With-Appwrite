@@ -1,10 +1,10 @@
-# React Authentication Private Routes With Appwrite
+# React Auth & Private Routes With Appwrite
 
 The perfect auth combo - In this tutorial I will demonstrate how to handle the entire authentication proccess along with adding private routes to our app wich will protect pages from unauthenticated users. All this with react router version 6.
 
-The video structure will look like this
 
 In this video we will cover the following:
+
 - Private Routes
 - Auth Context
 - User Login
@@ -16,11 +16,11 @@ In this video we will cover the following:
 
 For our backend of choice I will use my new favorite platform called Appwrite wich will make authenication incredibly easy for us. If you haven't head of Appwrite yet it's a Backend As A Service (BaaS) platform that's a great alternitive to firebase. 
 
-Appwrite is fully open sources and can be hosting localy or on the appwrite cloud. Using the appwrite cloud we can setup an app with users and a database in minutes so we will take care of that before we start coding.
+Appwrite is fully open sources and can be hosted localy or on the appwrite cloud. In this tutorial we will use the appwrite cloud so setup will take just a few minutes and then we can jump into coding our application.
 
 **Starter Code**
 
-For this project I have setup the boiler plate code with a few pages and some styling - We have a login, register + home and profile page wich we will start building arround. 
+For this project I have setup the boiler plate code with a few pages and some styling - We have a login, register + home and profile page wich we will start building around. 
 
 Before we set anything up let's clone the github repo that we currently have an explore our template.
 
