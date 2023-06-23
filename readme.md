@@ -15,6 +15,8 @@ Video guide can be found [here](video-notes.md)
 - User Logout
 - Registration
 
+### Project Pages
+
 <img src="images/demo.png">
 
 ## Getting started
