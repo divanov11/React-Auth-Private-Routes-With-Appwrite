@@ -24,4 +24,4 @@ Video guide can be found [here](video-notes.md)
 1. Clone repo
 2. `cd 1-starter-template`
 3. run `npm install`
-4. Create account and project on appwrite.io and follow guide.
+4. Create account and project on appwrite.io and follow [guide](video-notes.md#appwrite-console-setup--config).
